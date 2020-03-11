@@ -3,9 +3,9 @@ package api
 import (
 	"encoding/json"
 	"fmt"
-	"singo/conf"
-	"singo/model"
-	"singo/serializer"
+	"github.com/wuxiaoweisjz/singo/conf"
+	"github.com/wuxiaoweisjz/singo/model"
+	"github.com/wuxiaoweisjz/singo/serializer"
 
 	"github.com/gin-gonic/gin"
 	validator "gopkg.in/go-playground/validator.v8"

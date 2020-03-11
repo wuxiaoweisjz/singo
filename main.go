@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"singo/conf"
-	"singo/server"
+	"github.com/wuxiaoweisjz/singo/conf"
+	"github.com/wuxiaoweisjz/singo/server"
 )
 
 func main() {

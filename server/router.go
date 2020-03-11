@@ -2,8 +2,8 @@ package server
 
 import (
 	"os"
-	"singo/api"
-	"singo/middleware"
+	"github.com/wuxiaoweisjz/singo/api"
+	"github.com/wuxiaoweisjz/singo/middleware"
 
 	"github.com/gin-gonic/gin"
 )

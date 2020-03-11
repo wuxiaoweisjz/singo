@@ -2,9 +2,9 @@ package conf
 
 import (
 	"os"
-	"singo/cache"
-	"singo/model"
-	"singo/util"
+	"github.com/wuxiaoweisjz/singo/cache"
+	"github.com/wuxiaoweisjz/singo/model"
+	"github.com/wuxiaoweisjz/singo/util"
 
 	"github.com/joho/godotenv"
 )
